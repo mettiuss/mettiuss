@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Developer!</h1>
 
-<!--
-**mettiuss/mettiuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Matteo, Computer Engineering student at <img src="https://www.unipd.it/sites/unipd.it/files/unnamed-4_0.png" width="16"/> <b>University of Padua</b></p>
 
-Here are some ideas to get you started:
+<h3>🛠️ Projects I'm currently working on</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Afflueasy - custom Affluances client]()
+
+- [Realm - Time tracking app](https://github.com/mettiuss/realm)
+
+- [Potenza - Discord bot for Official Fortnite ITA server](https://github.com/mettiuss/potenza)
+
+- [Bus - An app to view buses timetables on the mi band 7](https://github.com/mettiuss/bus)
+
+
+<h3>📝 My latest blog posts</h3>
+
+- [An introduction to development on Mi band 7](https://medium.com/@matteocuzzolin/mi-band-7-development-5a9d83ca0d71)
+
+- [Google Sign In with Firebase in SwiftUI app](https://medium.com/@matteocuzzolin/google-sign-in-with-firebase-in-swiftui-app-c8dc7b7ed4f9)
