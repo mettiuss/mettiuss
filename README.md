@@ -15,6 +15,9 @@
 
 <h3>📝 My latest blog posts</h3>
 
+- [Google Sign In with Firebase in SwiftUI app](https://medium.com/@matteocuzzolin/google-sign-in-with-firebase-in-swiftui-app-c8dc7b7ed4f9)\
+
+- [Building Automations on RESTful APIs]([https://medium.com/p/875781ce2275](https://medium.com/@matteocuzzolin/building-automations-on-restful-apis-webhooks-on-notion-api-875781ce2275))
+
 - [An introduction to development on Mi band 7](https://medium.com/@matteocuzzolin/mi-band-7-development-5a9d83ca0d71)
 
-- [Google Sign In with Firebase in SwiftUI app](https://medium.com/@matteocuzzolin/google-sign-in-with-firebase-in-swiftui-app-c8dc7b7ed4f9)
