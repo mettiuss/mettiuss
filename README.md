@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Developer!</h1>
 
-<p>I'm Matteo, computer engineering undergraduate at <img src="https://www.unipd.it/sites/unipd.it/files/unnamed-4_0.png" width="16"/> <b>University of Padua</b></p>
+<p>I'm Matteo, graduate student in Systems & Control at <img src="https://i.redd.it/0r631in77rty.png" width="16"/> <b>Delft University of Technology</b></p>
 
 <h3>🛠️ Projects I'm currently working on</h3>
 
